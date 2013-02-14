@@ -10,7 +10,7 @@ Add this line to your application's Gemfile:
 
     or
 
-    gem 'es5-shim-rails', :git => "git@github.com:yourabi/es5-shim-rails.git"
+    gem 'es5-shim-rails', :git => "git://github.com/yourabi/es5-shim-rails.git"
     
 
 And then execute:
