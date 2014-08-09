@@ -1,6 +1,6 @@
 # es5-shim asset gem for Rails
 
-This asset gem packages [es5-shim](https://github.com/kriskowal/es5-shim) for the Rails asset pipeline.
+This asset gem packages [es5-shim](https://github.com/es-shims/es5-shim) for the Rails asset pipeline.
 
 ## Installation
 
@@ -37,7 +37,7 @@ Add one of the folllwing lines to your application.js manifest:
 
 ```
 
-Currently this version tracks es5-shim 2.0.5 [commit 6221329363](https://github.com/msievers/es5-shim-rails/commit/62213293633462d04770e658c6e8e4427c67d96a).
+Currently this version tracks es5-shim 4.0.1 [commit 734e4dd](https://github.com/msievers/es5-shim-rails/commit/734e4dd80a1e4cbbd3bb6947c79084e86cb1793b).
 
 ## Contributing
 
