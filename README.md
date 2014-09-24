@@ -29,15 +29,13 @@ Add one of the folllwing lines to your application.js manifest:
 
 ```js
 
-//= require es5-shim/es5-shim                                                                                                                                                                                                                               
-//= require es5-shim/es5-shim-min                                                                                                                                                                                                                               
-
-//= require es5-shim/es5-sham                                                                                                                                                                                                                               
-//= require es5-shim/es5-sham-min                                                                                                                                                                                                                               
-
+//= require es5-shim/es5-shim
+//= require es5-shim/es5-shim.min
+//= require es5-shim/es5-sham
+//= require es5-shim/es5-sham.min
 ```
 
-Currently this version tracks es5-shim 4.0.1 [commit 734e4dd](https://github.com/msievers/es5-shim-rails/commit/734e4dd80a1e4cbbd3bb6947c79084e86cb1793b).
+Version is tracked by git submodule.
 
 ## Contributing
 
